@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "DarshanEase Dev",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["node_modules/.pnpm/vite@6.3.5_@types+node@20.1_57e317deb9e6d376e2481f61569277da/node_modules/vite/bin/vite.js", "--port", "5173"],
+      "port": 5173
+    }
+  ]
+}
